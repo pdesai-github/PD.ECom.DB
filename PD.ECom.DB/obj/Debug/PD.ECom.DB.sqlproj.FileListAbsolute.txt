@@ -1,0 +1,6 @@
+C:\GIT\PD.ECom.DB\PD.ECom.DB\bin\Debug\PD.ECom.DB.dacpac
+C:\GIT\PD.ECom.DB\PD.ECom.DB\bin\Debug\PD.ECom.DB.dll
+C:\GIT\PD.ECom.DB\PD.ECom.DB\bin\Debug\PD.ECom.DB.pdb
+C:\GIT\PD.ECom.DB\PD.ECom.DB\obj\Debug\PD.ECom.DB.sqlproj.AssemblyReference.cache
+C:\GIT\PD.ECom.DB\PD.ECom.DB\obj\Debug\PD.ECom.DB.dll
+C:\GIT\PD.ECom.DB\PD.ECom.DB\obj\Debug\PD.ECom.DB.pdb
